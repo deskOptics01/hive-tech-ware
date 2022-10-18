@@ -1,8 +1,8 @@
 
-# hive-tech-ware in React & Redux + Django
+# Hive-tech-ware in React & Redux + Django
 
 ```
-# hive-tech-ware, with a frontend built in React & Redux and a backend built in Django API.
+# Hive-tech-ware, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
@@ -25,7 +25,7 @@ Check out [API LIVE DEMO](https://hive-techware-shaheed-backend.herokuapp.com/) 
 1. Git Clone
 
 ```
-git clone https://github.com/Apoorvasmr/Tasty-Taters
+git clone https://github.com/deskOptics01/hive-tech-ware.git
 ```
 
 2. Backend setting
